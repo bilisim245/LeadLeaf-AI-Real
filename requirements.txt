@@ -1,0 +1,31 @@
+# Python 3.9 ile test edilmiştir. Model eğitimi Google Colab (GPU) üzerinde yapılır (notebooks/);
+# bu dosya yerel çalıştırma (model servisi, RAG, Streamlit panosu) içindir.
+
+# Model servisi
+fastapi==0.128.8
+uvicorn[standard]==0.39.0
+python-multipart==0.0.20
+pillow==10.4.0
+numpy==2.0.2
+tensorflow-cpu==2.20.0
+keras==3.10.0
+
+# Rapor (Claude) ve PDF
+anthropic==0.125.0
+fpdf2==2.8.4
+
+# RAG: hastalık bilgi tabanı ve görsel benzerlik araması
+chromadb==1.5.9
+sentence-transformers==5.1.2
+
+# Streamlit panosu ve analizler
+streamlit==1.50.0
+altair==5.5.0
+pandas==2.3.3
+matplotlib==3.9.4
+scipy==1.13.1
+scikit-learn==1.6.1
+
+# Yardımcılar
+python-dotenv==1.2.1
+requests==2.32.5

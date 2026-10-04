@@ -1,0 +1,23 @@
+# LeadLeaf AI — lacivert (navy) tema. Açık zemin: projeksiyonda koyu temadan daha okunaklı.
+[theme]
+base = "light"
+primaryColor = "#1B3A6B"            # lacivert — butonlar, seçili sekme, kaydırıcılar
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#EEF2F8" # açık lacivert-gri — kutular, tablolar
+textColor = "#0F1E36"                # çok koyu lacivert metin (saf siyahtan daha yumuşak)
+font = "sans-serif"
+baseRadius = "medium"
+borderColor = "#D5DEEB"
+
+[theme.sidebar]
+backgroundColor = "#0F2347"          # koyu lacivert kenar çubuğu
+secondaryBackgroundColor = "#1B3A6B"
+textColor = "#F2F5FA"
+primaryColor = "#8FB4E8"
+borderColor = "#2A4A7D"
+
+[client]
+toolbarMode = "minimal"              # sağ üstteki geliştirici menüsünü sadeleştir
+
+[browser]
+gatherUsageStats = false

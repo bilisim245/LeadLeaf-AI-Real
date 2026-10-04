@@ -1,0 +1,15 @@
+{
+  "hastalik": "Geç Yanıklık (Late Blight)",
+  "guven": 97.5,
+  "neden": "Hastalık, su küfü (oomycete) sınıfından Phytophthora infestans etkeni tarafından oluşur ve nemli, serin havalarda, yaprakların uzun süre ıslak kalmasıyla hızla yayılır. Sık sulama, yetersiz hava sirkülasyonu ve yoğun bitki dikimi gibi koşullar etkenin yayılmasını kolaylaştırabilir.",
+  "aciklama": "Fotoğraftaki yaprakta görülen düzensiz, su emmiş görünümlü koyu lekeler geç yanıklık hastalığına işaret ediyor. Bu hastalık çok hızlı ilerleyebildiği için erken müdahale önemlidir; gövde ve meyvede de lezyon oluşabileceği için tüm bitki gözlemlenmelidir.",
+  "onlem": [
+    "Enfekte yaprakları ve bitki parçalarını hemen toplayıp bitki alanından uzaklaştırın, yakın veya gömün.",
+    "Sulamayı sabah saatlerinde ve damla sulama şeklinde yapın; yaprakların ıslak kalma süresini azaltın.",
+    "Bitkiler arasında yeterli mesafe bırakarak hava sirkülasyonunu artırın.",
+    "Aynı alanda art arda domates veya patates yetiştirmekten kaçının (ekim nöbeti uygulayın).",
+    "Şiddetli veya yayılmaya devam eden vakalarda, oomisit etkili (örneğin bakır bazlı) koruyucu fungisit kategorisinden ürünler değerlendirilebilir. Kesin doz ve ürün seçimi için ambalaj etiketine ve ruhsatlı bir ziraat mühendisine danışın."
+  ],
+  "uzmana_yonlendir": false,
+  "uyari": "Bu bir ön değerlendirmedir, kesin teşhis değildir ve tarımsal karar için tek başına kullanılmamalıdır."
+}

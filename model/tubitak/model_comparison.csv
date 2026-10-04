@@ -1,0 +1,4 @@
+model,dogruluk,macro_precision,macro_recall,macro_f1,macro_auc,model_boyutu_mb,ort_inference_ms,egitilebilir_parametre_1_asama,donuk_parametre_1_asama,egitilebilir_parametre_2_asama,donuk_parametre_2_asama
+MobileNetV2,0.9095,0.9022,0.8987,0.8985,0.9879,22.12,89.13,6405,2257984,1687749,576640
+MobileNetV3Small,0.8794,0.8867,0.8479,0.8523,0.9866,9.65,88.58,2885,939120,717197,224808
+EfficientNetB0,0.9468,0.9454,0.937,0.94,0.9958,36.76,91.28,6405,4049571,2678469,1377507

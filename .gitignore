@@ -1,0 +1,21 @@
+# Ortam ve gizli anahtarlar
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Üretilen dosyalar (rag/build_index.py ile yeniden oluşturulur)
+rag/chroma_db/
+rag/image_embeddings.npz
+
+# Yerel veri seti kopyası ve çalışma dosyaları
+data/
+*.sqlite
+*.sqlite3
+*.log
+
+# İşletim sistemi / editör
+.DS_Store
+Thumbs.db
+.vscode/

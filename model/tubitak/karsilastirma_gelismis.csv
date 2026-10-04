@@ -1,0 +1,2 @@
+model,dogruluk,macro_precision,macro_recall,macro_f1,macro_auc,model_boyutu_mb,ort_inference_ms
+EfficientNetB0_gelismis,0.9762,0.9748,0.9693,0.9716,0.9993,31.16,89.8
